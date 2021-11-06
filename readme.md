@@ -1,7 +1,7 @@
 # Calculator Project
 Dairui Zhang
 
-[![Build Status](https://app.travis-ci.com/DairuiZhangNJIT/calc2.svg?branch=main)](https://app.travis-ci.com/DairuiZhangNJIT/calc2)
+[![Build Status](https://app.travis-ci.com/DairuiZhangNJIT/Calculator_Dairui.svg?branch=main)](https://app.travis-ci.com/DairuiZhangNJIT/Calculator_Dairui)
 
 ### Coverage report screenshot
 
