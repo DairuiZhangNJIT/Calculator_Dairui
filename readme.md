@@ -20,3 +20,10 @@ Calc2_part_2 BRANCH
 ## Calc_part_2 Coverage
 
 ![dYeTqVhkcHNuAg2](https://i.loli.net/2021/11/09/dYeTqVhkcHNuAg2.png)
+
+
+## Refactor
+
+using a "# pylint: disable=unused-argument,redefined-outer-name" to avoid warning.
+
+![eiuSxKnMqIwGJXp](https://i.loli.net/2021/11/15/eiuSxKnMqIwGJXp.png)

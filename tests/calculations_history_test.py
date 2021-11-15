@@ -1,3 +1,4 @@
+# pylint: disable=unused-argument,redefined-outer-name
 """Testing the Calculator"""
 import pytest
 from calc.history.calculations import Calculations
